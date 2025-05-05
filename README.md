@@ -2,6 +2,11 @@
 
 This AI system uses deep learning and computer vision techniques to analyze faces. It extracts detailed facial data from uploaded images and compares it to a large database of celebrity faces. The system then provides accurate matches, showing how confident it is in the result.
 
+## Demo
+![Cristiano Ronaldo](image.png)
+![Niki Zefanya](image-1.png)
+![Angelina Jolie](image-2.png)
+
 ## Features
 
 - **Image Upload**: Upload any image and get the most similar celebrity match.
