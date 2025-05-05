@@ -1,0 +1,43 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+app.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploaded files
+uploads/
+
+# Model/data files
+*.npy
+*.h5
+*.pt
+*.pkl
+
+# Pyproject.lock / pipenv
+poetry.lock
+Pipfile.lock
+uv.lock
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Generated files
+*.bak
+
+# Environment files
+.env
